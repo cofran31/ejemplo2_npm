@@ -1,0 +1,18 @@
+{
+  "name": "ejemplo_npm",
+  "version": "1.0.0",
+  "description": "ejemplo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "jcol",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "git+https://github.com/jquery/jquery.git"
+  }
+}
